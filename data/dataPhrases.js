@@ -9,6 +9,11 @@ const dataPhrases = [
         es:"Chau 👋",
         en:"Bye 👋"
     },
+    {
+        id:3,
+        es:"Juan  👋",
+        en:"Jhon  👋"
+    },
 ]
 
 module.exports = dataPhrases;
