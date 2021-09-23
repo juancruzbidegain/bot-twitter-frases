@@ -14,9 +14,15 @@ var T = new Twit({
 })
 
 function retornarTweet (){
-    const tweet =   dataPhrases[2]
+    const numDB = Math.floor((Math.random() * (10 - 1 + 1)) + 1)
+    const tweet =   dataPhrases[numDB]
     return tweet;
 }
+
+function timeSleep(){
+    // time per tweet
+}
+
 const data = retornarTweet()
 
 
