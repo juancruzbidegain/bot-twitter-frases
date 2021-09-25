@@ -40,7 +40,7 @@ const dataPhrases = [
         en:" Try it again. Fail again. Fail better"
     },
     {
-        id:3,
+        id:9,
         es:"trata de ser el arcoíris en la nube de otra persona",
         en:"Try to be a rainbow in someone's cloud"
     }
